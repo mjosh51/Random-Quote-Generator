@@ -35,5 +35,11 @@
   
 }
 
+@media only screen and (orientation: landscape) {
+  .quote-box {
+    height: 100vh;
+  }
+}
+
 
 
